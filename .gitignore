@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+/build*
+/.svelte-kit
+/package
+/.history
+package-*
+.history
+package-lock.json
+.env
+*.pem
+.zip
